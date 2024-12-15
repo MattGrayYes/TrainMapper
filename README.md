@@ -16,6 +16,7 @@ This is still a first proof of concept that I'm playing with. Don't expect it to
 * [RealTimeTrains API](https://api.rtt.io/) key.
 
 ### Running It
+1. Copy `example.env` to `.env`, and enter your RTT API key and secret
 1. Run `deno task web`
 1. Go to http://localhost:8080/
 
