@@ -1,5 +1,5 @@
-# Rail Mapper
-This takes a UK National Rail service UID and generates a route map URL for signal.eu.org.
+# Train Mapper
+This takes a UK National Rail service UID and generates a URL for signal.eu.org, with the train's calling points as waypoints on the map.
 
 This is still a first proof of concept that I'm playing with. Don't expect it to work amazingly well.
 
