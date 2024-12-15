@@ -1,5 +1,9 @@
 {
   "tasks": {
-    "dev": "deno run --watch --allow-net --allow-read --allow-env main.ts"
+    "cli": "deno run --watch --allow-net --allow-read --allow-env main.ts",
+    "web": "deno run --watch --allow-net --allow-read --allow-env web.ts"
+  },
+  "imports": {
+    "@oak/oak": "jsr:@oak/oak@^17.1.3"
   }
 }
