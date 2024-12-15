@@ -1,0 +1,11 @@
+# MacOS generated files
+.DS_Store
+.DS_Store?
+
+# Environment Variables
+.env
+
+# Visual Studio Code
+/.vs/
+/.vscode/
+
