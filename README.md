@@ -1,4 +1,6 @@
 # Train Mapper
+Show the route of a train schedule on a map.
+
 This takes a UK National Rail service UID and generates a URL for signal.eu.org, with the train's calling points as waypoints on the map.
 
 This is still a first proof of concept that I'm playing with. Don't expect it to work amazingly well.
