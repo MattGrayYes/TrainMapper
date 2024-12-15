@@ -10,8 +10,8 @@ This is still a first proof of concept that I'm playing with. Don't expect it to
 
 ## Use
 ### Requirements
-* Requires [Deno](https://deno.com/)
-* Requires [RealTimeTrains API](https://api.rtt.io/) key.
+* [Deno](https://deno.com/)
+* [RealTimeTrains API](https://api.rtt.io/) key.
 
 ### Running It
 1. Run `deno task web`

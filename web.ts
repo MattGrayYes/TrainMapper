@@ -11,7 +11,7 @@ console.log("\nTrainMapper Web started\n\n\n")
 
 const router = new Router();
 
-router.get("/", async (ctx) => {
+router.get("/", (ctx) => {
     ctx.response.body = 
        `<!doctype html>
         <html>
